@@ -38,7 +38,7 @@ Full HTML report available [here](https://github.com/krle996/BlazeMeter-Performa
 
 ## Key Takeaways
 The system handled 8,400 requests with a 0% error rate under a load of 
-400 concurrent users. The "Open Website" step had the highest response 
+300 concurrent users. The "Open Website" step had the highest response 
 times, likely due to the larger amount of data loaded on that page. Among 
 the core purchase flow steps, "Choose Flight" was the slowest, making it 
 the top candidate for further performance investigation.
